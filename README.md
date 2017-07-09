@@ -1,2 +1,4 @@
+Ivy Bina
 # identity
-Ivy's portfolio 
+Ivy's portfolio
+languages are html and css
